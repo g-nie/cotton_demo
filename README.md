@@ -1,5 +1,5 @@
 
-This demo is to reproduce https://github.com/wrabit/django-cotton/issues/268
+The purpose of this demo is to reproduce https://github.com/wrabit/django-cotton/issues/268
 
 ---
 
