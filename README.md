@@ -1,6 +1,8 @@
 
 This demo is to reproduce https://github.com/wrabit/django-cotton/issues/268
 
+---
+
 Create and activate a virtual environment
 
 `pip install -r requirements.txt`
