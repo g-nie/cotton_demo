@@ -1,0 +1,13 @@
+db.sqlite3
+.venv
+.idea
+.env
+.ipython
+*.pyc
+*.pyo
+*.log
+*.retry
+.mypy_cache
+.DS_Store
+.vscode
+__pycache__/

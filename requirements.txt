@@ -1,0 +1,2 @@
+nanodjango==0.10.0
+django-cotton==2.0.0
